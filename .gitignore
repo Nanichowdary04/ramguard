@@ -1,0 +1,13 @@
+# Build outputs (the installer is published as a GitHub Release)
+bin/
+dist/
+tools/bin/
+
+# Local machine backups (registry exports and logs)
+cleanup-backup/
+
+# Editors and tools
+.claude/
+.vs/
+.vscode/
+*.log
